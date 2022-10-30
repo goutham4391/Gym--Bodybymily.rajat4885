@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bodybyemily.com	TRUE	/	FALSE	1999999999	hs	193349802
+www.bodybyemily.com	TRUE	/	FALSE	1999999999	svSession	c036958eb9129e06561efe868a5ec1c73a607b7f37e75153c632982a4e6f1b02e4e136faf8c5a56ab4ee4be0df1f46d01e60994d53964e647acf431e4f798bcd9440cf0e1da91904c1ba017feb6bed0ff75301f7dba9fd2b4a1039090d60381ac491085736a5418b5bf8e75560b26cdc7203be47433f37b7ad47bd6d01763878a1c3c8c8e7124212bdaf2f34e79ec2a8
+www.bodybyemily.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038666|v00YB8XZMyZh
+www.bodybyemily.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.bodybyemily.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
